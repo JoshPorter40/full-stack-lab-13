@@ -1,0 +1,16 @@
+{
+  "name": "chirper",
+  "version": "0.0.1",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "mocha server/serverTests"
+  },
+  "author": "Covalence",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "latest",
+    "request": "latest",
+    "chai": "latest"
+  }
+}
